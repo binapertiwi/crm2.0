@@ -1,6 +1,6 @@
 # Project Title
 
-Dashboard Journey vs Activities by BPT at SAP Customer Experience (SAP CX)
+Dashboard Journey vs Activities by BPT at SAP Customer Experience [SAP CX] (https://www.sap.com/sea/products/crm.html)
 
 ## Getting Started
 
