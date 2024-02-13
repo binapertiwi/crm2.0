@@ -20,10 +20,12 @@ List Table Join:
 * All Activities (**CODACTU**)
 * Lead (**CODMKLEAH**)
 * Mapping Area (**ZMAPPINGAREA**)
+[(Back to top)](#table-of-contents)
 
 ## Design Data Source
 Table Name:
 * **Join Lead Activities by BPT**: Table join lead and activities (Preceding Lead) by BPT.
+[(Back to top)](#table-of-contents)
   
 Access Context:
 * 6 Marketing Unit;
@@ -34,6 +36,7 @@ Access Context:
 * Territory,
 * Account,
 * Sales Data
+[(Back to top)](#table-of-contents)
 
 List Field:
 * All Activities - Activity ID
@@ -70,11 +73,13 @@ List Field:
 * Mapping Area - Area
 * **Mapping Area - Territory ID** (key with left outer join)
 * Mapping Area - TerritoryName
+[(Back to top)](#table-of-contents)
 
 ## Design Reports
 Reports Name:
 * **Join Journey Plan and Call Report by BPT**
   Table join lead and activities (Preceding Lead) by BPT with data source joint table column Lead and Preceding Lead.
+[(Back to top)](#table-of-contents)
 
 ### Views Name:
 * Activities by BC & Status - Top 15 Person
@@ -84,6 +89,7 @@ Reports Name:
 * Activities by Month
 * Activities by Status (chart)
 * Activities by status (doughnut)
+[(Back to top)](#table-of-contents)
 
 ### Selection Name:
 * Initial
@@ -99,3 +105,13 @@ Changelog:
     * 06 Feb 2024: Change Create On to Start Date.
 * V.9.02.24
     * 09 Feb 2024: Add Activities  by Catagories.
+ 
+# Helpfull Links
+* [Work with Reports in a Web Browser](https://help.sap.com/docs/SAP_CLOUD_FOR_CUSTOMER/66e9a9081a7b40e38c8604d6617d0311/de3a8c2bb9ea4de0a3a82dff497440a9.html)
+* [Create Data Sources](https://help.sap.com/docs/SAP_CLOUD_FOR_CUSTOMER/66e9a9081a7b40e38c8604d6617d0311/5ba8e4b4c3bb47ffabbe6b1b268b8334.html)
+* [Create Key Figures](https://help.sap.com/docs/SAP_CLOUD_FOR_CUSTOMER/66e9a9081a7b40e38c8604d6617d0311/2917e99667eb44298a02d0bb06a6caad.html)
+* [Create Key Performance Indicators (KPIs)](https://help.sap.com/docs/SAP_CLOUD_FOR_CUSTOMER/66e9a9081a7b40e38c8604d6617d0311/8c4e3cdbef7a4dde80695c15155a6c03.html)
+
+
+---
+“Sebaik-baik manusia adalah yang paling banyak manfaatnya bagi manusia”
