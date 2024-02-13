@@ -97,20 +97,16 @@ Reports Name:
 # Open Issue
 [(Back to top)](#table-of-contents)
 
-* Sometimes filter dashboard clear fiter (**activity type**) if dashboard filter more than 2 values.
-  Fix: add filter activity type with value 12. 
+* Occasional clearing of the dashboard filter for the 'activity type' when more than two values are selected.
+Proposed Fix: Include the activity type filter with the value 12.
 
 # Release History
 [(Back to top)](#table-of-contents)
 Changelog:
-* V.1.02.24
-    * 01 Feb 2024: First Launching Version 1.02.24 with 3 table join (mapping area, leads & activities).
-* V.2.02.24
-    * 02 Feb 2024: Fix relation column join tables.
-* V.6.02.24
-    * 06 Feb 2024: Change Create On to Start Date.
-* V.9.02.24
-    * 09 Feb 2024: Add Activities  by Catagories.
+* V.1.02.24 - On February 1, 2024, launched the initial version which included three joined tables - mapping area, leads, and activities.
+* V.2.02.24 - On February 2, 2024, fixed the relational column join issue.
+* V.6.02.24 - On February 6, 2024, updated 'Create On' to 'Start Date'.
+* V.9.02.24 - On February 9, 2024, add 'Activities by Categories'.
 
 # Helpfull Links
 [(Back to top)](#table-of-contents)
