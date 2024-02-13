@@ -24,6 +24,52 @@ List Table Join:
 ## Design Data Source
 Table Name:
 * **Join Lead Activities by BPT**: Table join lead and activities (Preceding Lead) by BPT.
+  
+Access Context:
+* 6 Marketing Unit;
+* 4 Sales Unit;
+* 5 Service Unit;
+* 1010 Employee;
+* 1016 Employee,
+* Territory,
+* Account,
+* Sales Data
+
+List Field:
+* All Activities - Activity ID
+* All Activities - Activity Life Cycle Status
+* All Activities - Activity Type
+* All Activities - Category Appointment
+* All Activities - Changed On in Local Time Zone
+* All Activities - Completed On
+* All Activities - Created By
+* All Activities - Created On
+* All Activities - Created On Date/Time in Local Time Zone
+* All Activities - End Date
+* All Activities - Latest Notes
+* All Activities - Main Account
+* All Activities - Main Contact
+* All Activities - Month/Calendar Year
+* All Activities - Start Date
+* **All Activities - Precending Lead** (key with left outer join)
+* Lead - Account
+* Lead - Calendar Day
+* Lead - Category
+* Lead - Conversion Status
+* Lead - Division
+* Lead - Expected Revenue
+* Lead - Industry
+* Lead - Industry System
+* **Lead - Lead** (key with left outer join))
+* Lead - Sales Group
+* Lead - Sales Office
+* Lead - Sales Organization
+* Lead - Sales Unit
+* Lead - Source
+* Lead - Status
+* Mapping Area - Area
+* **Mapping Area - Territory ID** (key with left outer join)
+* Mapping Area - TerritoryName
 
 ## Design Reports
 Reports Name:
