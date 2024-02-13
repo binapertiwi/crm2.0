@@ -7,6 +7,7 @@
     - [Design Reports](#design-reports)
       - [Views Name](#views-name)
       - [Selection Name](#selection-name)
+- [Open Issue](#open-issue)
 - [Release History](#release-history)
 - [Helpfull Links](#helpfull-links)
 
@@ -93,6 +94,12 @@ Reports Name:
 * Initial
 * Initial (all cabang - journey plan) [**default**]
 
+# Open Issue
+[(Back to top)](#table-of-contents)
+
+* Sometimes filter dashboard clear fiter (**activity type**) if dashboard filter more than 2 values.
+  Fix: add filter activity type with value 12. 
+
 # Release History
 [(Back to top)](#table-of-contents)
 Changelog:
@@ -104,7 +111,7 @@ Changelog:
     * 06 Feb 2024: Change Create On to Start Date.
 * V.9.02.24
     * 09 Feb 2024: Add Activities  by Catagories.
- 
+
 # Helpfull Links
 [(Back to top)](#table-of-contents)
 * [Work with Reports in a Web Browser](https://help.sap.com/docs/SAP_CLOUD_FOR_CUSTOMER/66e9a9081a7b40e38c8604d6617d0311/de3a8c2bb9ea4de0a3a82dff497440a9.html)
