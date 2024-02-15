@@ -39,9 +39,9 @@ Table Name:
 * 1016 Employee, Territory, Account, Sales Data
 
 ### Join List Field:
-* **All Activities - Precending Lead** (key with left outer join)
-* **Lead - Lead** (key with left outer join))
-* **Mapping Area - Territory ID** (key with left outer join)
+* All Activities - Precending Lead (key with left outer join)
+* Lead - Lead (key with left outer join))
+* Mapping Area - Territory ID (key with left outer join)
 
 ## Design Reports
 [(Back to top)](#table-of-contents)
