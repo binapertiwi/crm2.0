@@ -37,8 +37,8 @@ Table Name:
 * 1010 Employee
 
 ### Join List Field:
-* **Lead - Lead** (key with left outer join)
-* **Mapping Area - Territory ID** (key with left outer join)
+* Lead - Lead (key with left outer join)
+* Mapping Area - Territory ID (key with left outer join)
 
 ## Design Reports
 [(Back to top)](#table-of-contents)
@@ -53,7 +53,7 @@ Reports Name:
 * Lead by Categories
 * Lead by Month
 * Lead by Status
-* 
+
 ### Selection Name:
 * Initial
 * Initial (all cabang - only new account, unit & part) [**default**]
