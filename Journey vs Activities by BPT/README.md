@@ -4,6 +4,8 @@
 - [Prerequisites Tables](#prerequisites-tables)
     - [Tables](#tables)
     - [Design Data Source](#design-data-source)
+        - [Access Context](#access-context)
+        - [Join List Field](#join-list-field)
     - [Design Reports](#design-reports)
       - [Views Name](#views-name)
       - [Selection Name](#selection-name)
@@ -29,51 +31,17 @@ List Table Join:
 Table Name:
 * **Join Lead Activities by BPT**: Table join lead and activities (Preceding Lead) by BPT.
   
-Access Context:
+### Access Context:
 * 6 Marketing Unit;
 * 4 Sales Unit;
 * 5 Service Unit;
 * 1010 Employee;
-* 1016 Employee,
-* Territory,
-* Account,
-* Sales Data
+* 1016 Employee, Territory, Account, Sales Data
 
-List Field:
-* All Activities - Activity ID
-* All Activities - Activity Life Cycle Status
-* All Activities - Activity Type
-* All Activities - Category Appointment
-* All Activities - Changed On in Local Time Zone
-* All Activities - Completed On
-* All Activities - Created By
-* All Activities - Created On
-* All Activities - Created On Date/Time in Local Time Zone
-* All Activities - End Date
-* All Activities - Latest Notes
-* All Activities - Main Account
-* All Activities - Main Contact
-* All Activities - Month/Calendar Year
-* All Activities - Start Date
+### Join List Field:
 * **All Activities - Precending Lead** (key with left outer join)
-* Lead - Account
-* Lead - Calendar Day
-* Lead - Category
-* Lead - Conversion Status
-* Lead - Division
-* Lead - Expected Revenue
-* Lead - Industry
-* Lead - Industry System
 * **Lead - Lead** (key with left outer join))
-* Lead - Sales Group
-* Lead - Sales Office
-* Lead - Sales Organization
-* Lead - Sales Unit
-* Lead - Source
-* Lead - Status
-* Mapping Area - Area
 * **Mapping Area - Territory ID** (key with left outer join)
-* Mapping Area - TerritoryName
 
 ## Design Reports
 [(Back to top)](#table-of-contents)
@@ -96,7 +64,6 @@ Reports Name:
 
 # Open Issue
 [(Back to top)](#table-of-contents)
-
 * Occasional clearing of the dashboard filter for the 'activity type' when more than two values are selected.
 Proposed Fix: Include the activity type filter with the value 12.
 
