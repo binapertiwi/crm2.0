@@ -103,10 +103,10 @@ Proposed Fix: Include the activity type filter with the value 12.
 # Release History
 [(Back to top)](#table-of-contents)
 Changelog:
-* V.1.02.24 - On February 1, 2024, launched the initial version which included three joined tables - mapping area, leads, and activities.
-* V.2.02.24 - On February 2, 2024, fixed the relational column join issue.
-* V.6.02.24 - On February 6, 2024, updated 'Create On' to 'Start Date'.
-* V.9.02.24 - On February 9, 2024, add 'Activities by Categories'.
+* V.1.01.02.24 - On February 1, 2024, launched the initial version which included three joined tables - mapping area, leads, and activities.
+* V.2.02.02.24 - On February 2, 2024, fixed the relational column join issue.
+* V.3.06.02.24 - On February 6, 2024, updated 'Create On' to 'Start Date'.
+* V.4.09.02.24 - On February 9, 2024, add 'Activities by Categories'.
 
 # Helpfull Links
 [(Back to top)](#table-of-contents)
